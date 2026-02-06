@@ -1,2 +1,3 @@
-# Mini-Pupper
-Mini Pupper
+# mangdangroboticsclub
+
+https://github.com/mangdangroboticsclub
