@@ -1,19 +1,15 @@
 # mangdang robotics club
 
-https://github.com/mangdangroboticsclub
-
-https://minipupperdocs.readthedocs.io/en/latest/index.html#
-
-https://gmail1515401.autodesk360.com/g/shares/SH35dfcQT936092f0e43940e1e402362e6d4
-
-https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers
-
+   * https://github.com/mangdangroboticsclub
+   * https://minipupperdocs.readthedocs.io/en/latest/index.html#
+   * https://gmail1515401.autodesk360.com/g/shares/SH35dfcQT936092f0e43940e1e402362e6d4
+   * https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers
 
 # Mini Pupper BOM
 
 ## 1. MangDang  Custom Parts
 
-| | Item               | Qty | Description                   | Unit Price | Subtotal | Total    |
+| 상태 | Item               | Qty | Description                   | Unit Price | Subtotal | Total    |
 |-----|--------------------|-----|------------------------------|------------|----------|----------|
 | | Customized Servo   | 12  | Custom servo                | $9.60      | $115.20  | $115.20  |
 | | Cusomized PCBA     | 1   | Including a fan             |            | $30.00   | $30.00   |
@@ -25,7 +21,7 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 2. Body and Legs Carbon fiber
 
-| | Item              | Qty | Description | Unit Price | Subtotal | Total |
+| 상태 | Item              | Qty | Description | Unit Price | Subtotal | Total |
 |-----|-------------------|-----|------------|------------|----------|-------|
 | | Plate_Bottom      | 1   |            |            |          | $20   |
 | | Plate_Top         | 1   |            |            |          |       |
@@ -38,7 +34,7 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 3. Hardware & Fasteners
 
-| | Item                           | Qty | Description                                   | Unit Price         | Purchase Info        | Total   |
+| 상태 | Item                           | Qty | Description                                   | Unit Price         | Purchase Info        | Total   |
 |-----|--------------------------------|-----|-----------------------------------------------|--------------------|----------------------|---------|
 | | Ball ends                      | 8   | M2/2mm 15mm Linkage Rod End                  |                    | $7.49 per 2          | $14.98  |
 | | Threaded rod                   | 4   | M2x35mm Double End Thread Rod                |                    | $18.26 per 10        | $18.26  |
@@ -66,7 +62,7 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 4. 3D Printed Basic Package
 
-| | Item                | Qty | Description | Unit Price | Subtotal | Total |
+| 상태 | Item                | Qty | Description | Unit Price | Subtotal | Total |
 |-----|---------------------|-----|------------|------------|----------|--------|
 | 준비완료 | Body_Front          | 1   |            | $6.66 |        | $6.66  |
 | 준비완료 | Body_Middle         | 2   |            | $6.76      |          | $13.52 |
@@ -86,7 +82,7 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 > **STL.files.for.3Dprint.MiniPupper.zip**  
 > https://drive.google.com/drive/folders/12FDFbZzO61Euh8pJI9oCxN-eLVm5zjyi
 
-| | Item                         | Qty | Unit Price | Subtotal | Total   |
+| 상태 | Item                         | Qty | Unit Price | Subtotal | Total   |
 |-----|------------------------------|-----|------------|----------|---------|
 | 준비완료 | Shell_Front_TypeD            | 1   | $33.12     |          | $33.12  |
 | 준비완료 | Shell_Hip_Left               | 2   | $7.62      |          | $15.24  |
@@ -100,7 +96,7 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 6. Complete Kit
 
-| | Item                  | Qty | Description |
+| 상태 | Item                  | Qty | Description |
 |-----|-----------------------|-----|------------|
 | | Controller            | 1   |            |
 | 준비완료 | Raspberry Pi 4B / 2GB | 1   | 2GB DDR    |
