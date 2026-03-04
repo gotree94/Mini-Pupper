@@ -13,26 +13,26 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 1. MangDang  Custom Parts
 
-| Item               | Qty | Description                   | Unit Price | Subtotal | Total    |
-|--------------------|-----|------------------------------|------------|----------|----------|
-| Customized Servo   | 12  | Custom servo                | $9.60      | $115.20  | $115.20  |
-| Cusomized PCBA     | 1   | Including a fan             |            | $30.00   | $30.00   |
-| LCD Display        | 1   |                              |            | $16.00   | $16.00   |
-| LCD Display Board  | 1   | Including a speaker         |            |          |          |
-| Leg_Arm_Lower      | 4   | Custom metal servo horns    | $1.50      | $6.00    | $6.00    |
-| Leg_Arm_Upper      | 4   | Custom metal servo horns    | $1.50      | $6.00    | $6.00    |
+| | Item               | Qty | Description                   | Unit Price | Subtotal | Total    |
+|-----|--------------------|-----|------------------------------|------------|----------|----------|
+| | Customized Servo   | 12  | Custom servo                | $9.60      | $115.20  | $115.20  |
+| | Cusomized PCBA     | 1   | Including a fan             |            | $30.00   | $30.00   |
+| | LCD Display        | 1   |                              |            | $16.00   | $16.00   |
+| | LCD Display Board  | 1   | Including a speaker         |            |          |          |
+| | Leg_Arm_Lower      | 4   | Custom metal servo horns    | $1.50      | $6.00    | $6.00    |
+| | Leg_Arm_Upper      | 4   | Custom metal servo horns    | $1.50      | $6.00    | $6.00    |
 
 
 ## 2. Body and Legs Carbon fiber
 
-| Item              | Qty | Description | Unit Price | Subtotal | Total |
-|-------------------|-----|------------|------------|----------|-------|
-| Plate_Bottom      | 1   |            |            |          | $20   |
-| Plate_Top         | 1   |            |            |          |       |
-| Leg_Upper         | 4   |            |            |          |       |
-| Leg_Lower         | 4   |            |            |          |       |
-| Link_ShortRod     | 4   |            |            |          |       |
-| Link_RockerArm    | 4   |            |            |          |       |
+| | Item              | Qty | Description | Unit Price | Subtotal | Total |
+|-----|-------------------|-----|------------|------------|----------|-------|
+| | Plate_Bottom      | 1   |            |            |          | $20   |
+| | Plate_Top         | 1   |            |            |          |       |
+| | Leg_Upper         | 4   |            |            |          |       |
+| | Leg_Lower         | 4   |            |            |          |       |
+| | Link_ShortRod     | 4   |            |            |          |       |
+| | Link_RockerArm    | 4   |            |            |          |       |
 
 
 
