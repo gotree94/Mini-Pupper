@@ -26,3 +26,20 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 <img width="1691" height="1710" alt="003" src="https://github.com/user-attachments/assets/11f89dbb-dd78-4c2a-a42b-138fbb2e3824" />
 <br>
 
+## 1. MangDang  Custom Parts
+
+## 2. Body and Legs Carbon fiber
+
+## 3. Hardware
+
+## 4. 3D Printed Basic Package
+
+## 5. 3D Print Shell Package
+
+## 6. Complete Kit
+
+|	No | Controller	|	1	|
+|:-----:||:-----:||:-----:|
+|	1 | Raspberry Pi 4B/2GB	|	1	|	2GB DDR |
+|	2 | SD card	|	1	|	
+
