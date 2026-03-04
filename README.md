@@ -6,6 +6,10 @@ https://minipupperdocs.readthedocs.io/en/latest/index.html#
 
 https://gmail1515401.autodesk360.com/g/shares/SH35dfcQT936092f0e43940e1e402362e6d4
 
+https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers
+
+
+
 <img width="701" height="658" alt="004" src="https://github.com/user-attachments/assets/5a08f4cb-af65-4e74-9209-9264d9f67d3e" />
 <br>
 <img width="734" height="623" alt="006" src="https://github.com/user-attachments/assets/7e1bd494-2b25-4f8f-b0c8-969866acd199" />
