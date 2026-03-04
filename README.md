@@ -9,20 +9,6 @@ https://gmail1515401.autodesk360.com/g/shares/SH35dfcQT936092f0e43940e1e402362e6
 https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers
 
 
-
-<img width="701" height="658" alt="004" src="https://github.com/user-attachments/assets/5a08f4cb-af65-4e74-9209-9264d9f67d3e" />
-<br>
-<img width="734" height="623" alt="006" src="https://github.com/user-attachments/assets/7e1bd494-2b25-4f8f-b0c8-969866acd199" />
-<br>
-<img width="438" height="673" alt="005" src="https://github.com/user-attachments/assets/1991ef48-7a6d-4b87-85b4-7ea0eb0514cb" />
-<img width="468" height="662" alt="007" src="https://github.com/user-attachments/assets/0c9d9eab-4014-4db2-942e-e82ed7538120" />
-<br>
-
-<img width="1863" height="1855" alt="002" src="https://github.com/user-attachments/assets/3bf7a477-2349-4a5e-98e3-d70fb3017d03" />
-<br>
-<img width="1691" height="1710" alt="003" src="https://github.com/user-attachments/assets/11f89dbb-dd78-4c2a-a42b-138fbb2e3824" />
-<br>
-
 # Mini Pupper BOM
 
 ## 1. MangDang  Custom Parts
@@ -39,8 +25,6 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 
 ## 2. Body and Legs Carbon fiber
 
-## Mechanical Parts
-
 | Item              | Qty | Description | Unit Price | Subtotal | Total |
 |-------------------|-----|------------|------------|----------|-------|
 | Plate_Bottom      | 1   |            |            |          | $20   |
@@ -50,9 +34,9 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 | Link_ShortRod     | 4   |            |            |          |       |
 | Link_RockerArm    | 4   |            |            |          |       |
 
-## 3. Hardware
 
-## Hardware & Fasteners
+
+## 3. Hardware & Fasteners
 
 | Item                           | Qty | Description                                   | Unit Price         | Purchase Info        | Total   |
 |--------------------------------|-----|-----------------------------------------------|--------------------|----------------------|---------|
@@ -78,9 +62,9 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 | M1.4 Screws                    | 13  | M1.4x(2.8~3)mm                               |                    |                      | $8.59   |
 | Button Head Hex Drive Screws   | 4   | M3x8mm                                       |                    | $7.00 per 10         | $7.00   |
 
-## 4. 3D Printed Basic Package
 
-## 3D Printed Parts
+
+## 4. 3D Printed Basic Package
 
 | Item                | Qty | Description | Unit Price | Subtotal | Total |
 |---------------------|-----|------------|------------|----------|--------|
@@ -94,9 +78,9 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 | Shell_Display_Cover | 1   |            | $6.66      |          | $6.66  |
 | Custom Battery      | 1   |  1000mAh (5C) 7.4V Li-Polymer battery  | $30.00      |          | $30.00  |
 
-## 5. 3D Print Shell Package
 
-## 3D Printed Shell Parts
+
+## 5. 3D Print Shell Package
 
 > If you want to print the 3D parts yourself, please refer to the source files below:  
 > **STL.files.for.3Dprint.MiniPupper.zip**  
@@ -112,15 +96,42 @@ https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-
 | Shell_Side                   | 2   | $7.09      |          | $17.56  |
 | Foot                         | 4   | $6.66      |          | $26.64  |
 
-## 6. Complete Kit
 
-## Controller & Core Components
+
+## 6. Complete Kit
 
 | Item                  | Qty | Description |
 |-----------------------|-----|------------|
 | Controller            | 1   |            |
 | Raspberry Pi 4B / 2GB | 1   | 2GB DDR    |
 | SD Card               | 1   |            |
+
+
+
+<img width="701" height="658" alt="004" src="https://github.com/user-attachments/assets/5a08f4cb-af65-4e74-9209-9264d9f67d3e" />
+<br>
+<img width="734" height="623" alt="006" src="https://github.com/user-attachments/assets/7e1bd494-2b25-4f8f-b0c8-969866acd199" />
+<br>
+<img width="438" height="673" alt="005" src="https://github.com/user-attachments/assets/1991ef48-7a6d-4b87-85b4-7ea0eb0514cb" />
+<img width="468" height="662" alt="007" src="https://github.com/user-attachments/assets/0c9d9eab-4014-4db2-942e-e82ed7538120" />
+<br>
+
+<img width="1863" height="1855" alt="002" src="https://github.com/user-attachments/assets/3bf7a477-2349-4a5e-98e3-d70fb3017d03" />
+<br>
+<img width="1691" height="1710" alt="003" src="https://github.com/user-attachments/assets/11f89dbb-dd78-4c2a-a42b-138fbb2e3824" />
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
